@@ -2,7 +2,7 @@
 
 A comprehensive web application that calculates the ideal time to leave for the airport based on real-time traffic, flight type, and user preferences.
 
-<img width="1080" height="2400" alt="image" src="https://github.com/user-attachments/assets/d9b2dc1d-8916-471a-a9a3-812ba414aba3" />
+<img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/d9b2dc1d-8916-471a-a9a3-812ba414aba3" />
 
 
 ## Features
